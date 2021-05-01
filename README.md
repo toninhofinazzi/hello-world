@@ -6,4 +6,4 @@ Olá pessoal da Quarentena!
 Tudo tem sempre um lado bom!
 Estou tendo tempo de aprender o que 
 provavelmente nunca iria aprender.
-Amo as opções gratuitas do Google.
+Amo as opções gratuitas do Google e do Github.
